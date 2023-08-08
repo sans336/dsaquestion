@@ -1,4 +1,4 @@
-let arr = [0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1];
+let arr = [0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0];
 function sorting(arr) {
     let result=[]
     for (let i = 0; i < arr.length; i++){
